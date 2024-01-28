@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "cookiecutter-api"
+version = "0.1.0"
+description = ""
+authors = ["Kasper Primdal Lauritzen <git@kplauritzen.dk>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest-cookies = "0.7.0"

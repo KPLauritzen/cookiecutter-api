@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "{{ cookiecutter.__package_name }}"
+version = "0.1.0"
+description = ""
+authors = ["{{ cookiecutter.author_name }} <{{ cookiecutter.author_email }}>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
