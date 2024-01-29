@@ -7,3 +7,10 @@ authors = ["Kasper Primdal Lauritzen <git@kplauritzen.dk>"]
 [tool.poetry.dependencies]
 python = "^3.11"
 pytest-cookies = "0.7.0"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.format]
+line-ending = "lf"
