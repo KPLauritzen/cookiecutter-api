@@ -43,3 +43,5 @@ This allows us to create a python environment from the template specifdication a
 #### CI/CD
 
 Part of the template is a PR pipeline that is to be run any Pull Requests. These templates are particularly hard to test, so this will be an example of how to do it.
+
+This is however not implemented yet.
